@@ -11,6 +11,7 @@
 - FPGA programming (Xilinx, standalone and hybrid)
 - Operating systems development (working with seL4, a few simple kernels)
 - Computer graphics (mathematics, OpenGL, simple path-tracing) 
+- Computer/machine vision (basic techniques, hardware-acceleration)
 - Compiler development (simple compiler architecture)
 - Network programming (in C)
 - Multi-threaded and parallel programming (C, Rust)
