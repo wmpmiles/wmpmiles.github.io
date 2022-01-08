@@ -1,13 +1,13 @@
 # Quick Résumé
 
-## General experience
+## Experience
 
 - Soon to graduate Computer Engineering BEng at UNSW
 - 2 years of part time resarch for UNSW [(hardware memory safety on a RISC-V chip)](https://doi.org/10.1109/DAC18074.2021.9586293)
 - 2 years as software team lead at UNSW's [Off-World Robotics project](https://bluesat.com.au/teams/off-world-robotics/)
 - Informatics olympiads (national, during highscool) 
 
-## Specific experience
+## Skills
 
 - Digital circuit design (standalone, accelerators)
 - FPGA programming (Xilinx, standalone and hybrid)
