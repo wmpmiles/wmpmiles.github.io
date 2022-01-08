@@ -41,3 +41,7 @@ From that I've developed a decent understanding of xEdit scripting, know the
 basics of Papyrus scripting, and know my way around the xEdit and CK interfaces. 
 I have a vague understanding of things like the quest/keywords/aliases system.
 
+I also started (though did not get very far) reverse engineering the CK 
+because I was frustrated with how unweildy the Precomb/Previs generation system
+was.
+
