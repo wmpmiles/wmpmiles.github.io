@@ -30,18 +30,3 @@ Have used | Scala, Erlang, JS, Haskell, Pascal
 
 - [Github](https://github.com/wmpmiles)
 - Other non-public projects available on request
-
-## Skyblivion application specifics
-
-I haven't made any mods, but I've spent a fair amount of time in xEdit and the 
-CK deconflicting, creating patches, and debugging others mods, though most of
-that was for Fallout 4, not Skyrim.
-
-From that I've developed a decent understanding of xEdit scripting, know the 
-basics of Papyrus scripting, and know my way around the xEdit and CK interfaces. 
-I have a vague understanding of things like the quest/keywords/aliases system.
-
-I also started (though did not get very far) reverse engineering the CK 
-because I was frustrated with how unweildy the Precomb/Previs generation system
-was.
-
