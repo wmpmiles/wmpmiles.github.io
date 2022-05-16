@@ -30,3 +30,5 @@ Have used | Scala, Erlang, JS, Haskell, Pascal
 
 - [Github](https://github.com/wmpmiles)
 - Other non-public projects available on request
+
+Hello, No-Frauds Club.
